@@ -1,4 +1,4 @@
-
+the 30-day mortality rates for heart attack Dominican Republic
 
 Part 1 Plot the 30-day mortality rates for heart attack (outcome.R)
 # install.packages("data.table")
